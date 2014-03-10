@@ -134,6 +134,40 @@ $this->fontdata = array(
 		'BI' => "FreeSerifBoldItalic.ttf",
 		'useOTL' => 0xFF,
 		),
+	"opensans" => array(
+		'R'  => "OpenSans-Regular-webfont.ttf",
+		'B'  => "OpenSans-Bold-webfont.ttf",
+		'I'  => "OpenSans-Italic-webfont.ttf",
+		'BI' => "OpenSans-BoldItalic-webfont.ttf",
+	),
+	"opensansbold" => array(
+		'R'  => "OpenSans-Bold-webfont.ttf",
+		'I'  => "OpenSans-Italic-webfont.ttf",
+	),
+	"opensanslight" => array(
+		'R'  => "OpenSans-Light-webfont.ttf",
+		'I'  => "OpenSans-LightItalic-webfont.ttf",
+	),
+	"opensanssemibold" => array(
+		'R'  => "OpenSans-Semibold-webfont.ttf",
+		'I'  => "OpenSans-SemiboldItalic-webfont.ttf",
+	),
+	"opensansextrabold" => array(
+		'R'  => "OpenSans-ExtraBold-webfont.ttf",
+		'I'  => "OpenSans-ExtraBoldItalic-webfont.ttf",
+	),
+	"arial" => array(
+		'R'  => "Arial.ttf",
+		'I'  => "ArialItalic.ttf",
+		'B'  => "ArialBold.ttf",
+		'BI' => "ArialBoldItalic.ttf",
+	),
+	"roboto" => array(
+		'R'  => "Roboto-v9-Regular.ttf",
+		'I'  => "Roboto-v9-Italic.ttf",
+		'B'  => "Roboto-v9-600.ttf",
+		'BI' => "Roboto-v9-600italic.ttf",
+	),
 	"freemono" => array(
 		'R' => "FreeMono.ttf",
 		'B' => "FreeMonoBold.ttf",
