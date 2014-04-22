@@ -163,10 +163,10 @@ $this->fontdata = array(
 		'BI' => "ArialBoldItalic.ttf",
 	),
 	"roboto" => array(
-		'R'  => "Roboto-v9-Regular.ttf",
-		'I'  => "Roboto-v9-Italic.ttf",
-		'B'  => "Roboto-v9-600.ttf",
-		'BI' => "Roboto-v9-600italic.ttf",
+		'R'  => "Roboto-v9-300.ttf",
+		'I'  => "Roboto-v9-300Italic.ttf",
+		'B'  => "Roboto-v9-700.ttf",
+		'BI' => "Roboto-v9-700italic.ttf",
 	),
 	"freemono" => array(
 		'R' => "FreeMono.ttf",
